@@ -17,7 +17,7 @@ export default {
   //Change The Website Template
 
   //   Header Details ---------------------
-  name: "Alvaro / kNS",
+  name: "Alvaro / kNS.",
   headerTagline: [
     //Line 1 For Header
     "Future Full Stack",
